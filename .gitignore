@@ -1,0 +1,7 @@
+# transient search logs and build artifacts
+cpsat.out
+k55_det.out
+k55_det.err
+k55_rand.out
+k55
+_page*.png
